@@ -1,2 +1,0 @@
-# bot-permissoe
-Permissões Kbs
